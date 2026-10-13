@@ -10,9 +10,21 @@
 Habit, Productivity, Tracker, Self-improvement, Daily habits
 
 ## Media Assets
-- **App icon**: `assets/app_icon.png`
-- **Screenshots**:
-  1. `assets/login_screen.png` - Login Page
-  2. `assets/home-screen.png` - Home Page
-  3. `assets/settings-screen.png` - Settings Menu
-  4. `assets/notification-configure.png` - Notifications Page
+- ## App Icon
+
+![App Icone](assets/app_icon.png)
+
+ ## Login Page
+
+![Login Page](assets/login_screen.png)
+
+- ## Home Screen
+
+![Home Pagen](assets/home-screen.png)
+- ## Settings Screen
+
+![Settings Screen Icon](assets/settings-screen.png)
+
+- ## Notifications Screen
+
+![notifications Screen](assets/notification-configure.png)
